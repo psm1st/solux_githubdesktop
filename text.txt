@@ -2,9 +2,6 @@
 반갑습니다
 hello //branch2변경사항
 아아 //branch_1의 두번째 변경사항
-<<<<<<< HEAD
 
 main 브랜치 1번 커밋
 main 브랜치 2번 커밋
-=======
->>>>>>> parent of 7c1d3c9 (main commit_1)
