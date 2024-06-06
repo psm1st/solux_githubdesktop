@@ -4,4 +4,3 @@ hello //branch2변경사항
 아아 //branch_1의 두번째 변경사항
 
 main 브랜치 1번 커밋
-main 브랜치 2번 커밋
